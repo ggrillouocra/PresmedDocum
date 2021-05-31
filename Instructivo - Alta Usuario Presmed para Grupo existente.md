@@ -35,7 +35,7 @@ PRESMED - Alta de Usuario para Grupo (perfil) existente
 
 ![](media/8519f6d0b56e8eea9cd5378f0a790def.png)
 0
-### **Cambio de Contraseña** #
+## **Cambio de Contraseña** #
 
 -   Las contraseñas pueden ser modificadas por el usuario al momento de
     ingresar, con el botón “Contraseña”.
